@@ -1,0 +1,14 @@
+#productDetails .productDetailsDesign {
+
+    border-bottom: 1px solid #EBEBEB;
+}
+
+#productDetails .productDetailsDesign:hover {
+
+    border-bottom: 1px solid #fff
+}
+
+#productDetails .productDetailsDesign:last-child {
+
+    border-bottom: 0;
+}
